@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <student_number>2022100783</student_number>
+    <first_name>Kyle Zyren </first_name>
+    <last_name>Angeles</last_name>
+    <program>BSIT</program>
+    <year_level>3rd Year</year_level>
+  </record>
+ <record>
+    <student_number>2022400428</student_number>
+    <first_name>Enric Kyle</first_name>
+    <last_name>Colet</last_name>
+    <program>BSIT</program>
+    <year_level>3rd Year</year_level>
+  </record>
+ <record>
+    <student_number>2022100547</student_number>
+    <first_name>Cedric Amiel </first_name>
+    <last_name>Dela Torre</last_name>
+    <program>BSIT</program>
+    <year_level>3rd Year</year_level>
+  </record>
+ <record>
+    <student_number>2022106371</student_number>
+    <first_name>Kaira </first_name>
+    <last_name>Domingo</last_name>
+    <program>BSIT</program>
+    <year_level>3rd Year</year_level>
+  </record>
+ <record>
+    <student_number>2022100556</student_number>
+    <first_name>Kurt Justin</first_name>
+    <last_name>Rafael</last_name>
+    <program>BSIT</program>
+    <year_level>3rd Year</year_level>
+  </record>
+ <record>
+    <student_number>2022100546</student_number>
+    <first_name>Eryn Leslie</first_name>
+    <last_name>Santiago</last_name>
+    <program>BSIT</program>
+    <year_level>3rd Year</year_level>
+  </record>
+</records>
